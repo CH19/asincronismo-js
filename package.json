@@ -1,0 +1,30 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "curso de asincronismo de javascript de platzi, practicando funciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CH19/asincronismo-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo",
+    "es6",
+    "v8",
+    "chrome",
+    "typescript"
+  ],
+  "author": "Christian La Cruz <chcc190505@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CH19/asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/CH19/asincronismo-js#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
