@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/CH19/asincronismo-js#readme",
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "@types/node": "^20.6.3",
+    "typescript": "^5.2.2",
+    "xmlhttprequest": "^1.8.0"
   }
 }
