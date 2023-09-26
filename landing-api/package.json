@@ -1,0 +1,17 @@
+{
+  "name": "landing-api",
+  "version": "1.0.0",
+  "description": "Projecto de una api con typescript y javascript asincrono",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "typescript",
+    "javascript"
+  ],
+  "author": "CH19 <chcc190505@gmail.com>",
+  "license": "ISC"
+}

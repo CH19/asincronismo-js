@@ -29,4 +29,15 @@ console.log(names.next().value);
 
 console.log(names.next().value);
 
+function* getNumber(){
+    let i = 0;
+    while(true){
+        yield i += 2
+    }
+}
+const num = getNumber();
+console.log(num.next().value);
+console.log(num.next().value);
+console.log(num.next().value);
+
 })()
