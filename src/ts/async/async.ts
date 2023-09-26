@@ -18,3 +18,4 @@ const anotherFn = async () => {
 console.log('Before async function');
 anotherFn();
 console.log('Afet async function');
+
